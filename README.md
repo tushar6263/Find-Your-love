@@ -4,17 +4,6 @@ A modern and responsive dating web application made with **Next.js**, designed t
 
 ---
 
-## 🚀 Features
-
-- 🧑‍💼 Register and login functionality  
-- 🔐 Secure password handling  
-- 🌍 Member listing with search and filters (by gender, country, etc.)  
-- 📸 Upload ID verification  
-- 🔁 Third-party logins (Google, Facebook, Apple)  
-- ✨ Clean, modern UI design  
-
----
-
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
@@ -31,6 +20,17 @@ A modern and responsive dating web application made with **Next.js**, designed t
 ### 👥 Single Member profile
 ![Members](./assets/member.png)
 ![Members](./assets/member1.png)
+
+---
+
+## 🚀 Features
+
+- 🧑‍💼 Register and login functionality  
+- 🔐 Secure password handling  
+- 🌍 Member listing with search and filters (by gender, country, etc.)  
+- 📸 Upload ID verification  
+- 🔁 Third-party logins (Google, Facebook, Apple)  
+- ✨ Clean, modern UI design  
 
 ---
 
